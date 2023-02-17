@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>PowerWidgets/MainMenuSwitch.qml</file>
+        <file>PowerWidgets/PowerGrid.qml</file>
+        <file>PowerWidgets/PowerGridItem.qml</file>
+    </qresource>
+</RCC>
